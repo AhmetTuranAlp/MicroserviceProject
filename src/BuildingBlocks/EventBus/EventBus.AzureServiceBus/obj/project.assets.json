@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
+      "projectUniqueName": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
       "projectName": "EventBus.AzureServiceBus",
-      "projectPath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
+      "projectPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
       "packagesPath": "C:\\Users\\GLB90090540\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\obj\\",
+      "outputPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

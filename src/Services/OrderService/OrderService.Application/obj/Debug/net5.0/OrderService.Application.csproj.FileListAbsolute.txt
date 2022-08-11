@@ -10,3 +10,15 @@ C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\
 C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.dll
 C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\ref\OrderService.Application.dll
 C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.pdb
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\OrderService.Application.deps.json
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\OrderService.Application.dll
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\ref\OrderService.Application.dll
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\OrderService.Application.pdb
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.csproj.AssemblyReference.cache
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.AssemblyInfoInputs.cache
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.AssemblyInfo.cs
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.csproj.CoreCompileInputs.cache
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.dll
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\ref\OrderService.Application.dll
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.pdb

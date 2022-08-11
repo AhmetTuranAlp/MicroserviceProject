@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {}
+    "D:\\Github\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {
+    "D:\\Github\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+        "projectUniqueName": "D:\\Github\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
         "projectName": "Web.ApiGateway",
-        "projectPath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
+        "projectPath": "D:\\Github\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\Web.ApiGateway.csproj",
         "packagesPath": "C:\\Users\\GLB90090540\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\obj\\",
+        "outputPath": "D:\\Github\\MicroserviceProject\\src\\ApiGateways\\WebApiGateway\\Web.ApiGateway\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

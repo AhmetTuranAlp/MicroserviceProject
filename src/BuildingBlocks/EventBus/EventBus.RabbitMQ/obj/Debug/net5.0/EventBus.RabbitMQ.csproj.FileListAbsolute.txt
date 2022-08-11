@@ -10,3 +10,15 @@ C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBu
 C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.dll
 C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\ref\EventBus.RabbitMQ.dll
 C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.pdb
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net5.0\EventBus.RabbitMQ.deps.json
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net5.0\EventBus.RabbitMQ.dll
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net5.0\ref\EventBus.RabbitMQ.dll
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net5.0\EventBus.RabbitMQ.pdb
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.csproj.AssemblyReference.cache
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.AssemblyInfoInputs.cache
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.AssemblyInfo.cs
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.dll
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\ref\EventBus.RabbitMQ.dll
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.pdb

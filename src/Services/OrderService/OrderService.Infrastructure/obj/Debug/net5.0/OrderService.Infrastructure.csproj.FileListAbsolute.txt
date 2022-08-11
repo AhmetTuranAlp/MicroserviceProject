@@ -9,3 +9,14 @@ C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\
 C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.dll
 C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\ref\OrderService.Infrastructure.dll
 C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.pdb
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\OrderService.Infrastructure.deps.json
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\OrderService.Infrastructure.dll
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\ref\OrderService.Infrastructure.dll
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\OrderService.Infrastructure.pdb
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.AssemblyInfoInputs.cache
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.AssemblyInfo.cs
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.dll
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\ref\OrderService.Infrastructure.dll
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.pdb

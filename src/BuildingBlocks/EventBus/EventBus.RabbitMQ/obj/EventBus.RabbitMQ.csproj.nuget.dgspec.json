@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {}
+    "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
+    "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+        "projectUniqueName": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
         "projectName": "EventBus.RabbitMQ",
-        "projectPath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+        "projectPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
         "packagesPath": "C:\\Users\\GLB90090540\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\obj\\",
+        "outputPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

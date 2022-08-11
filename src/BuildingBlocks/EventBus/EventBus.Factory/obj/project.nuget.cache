@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UwLuqTFfYtGERFEvXWcE+aQB9OLbyVHYPDfuH6bX6GW1+lDMt/evM7v6s984l8aWHtYZoVov5wqFx5GNGoo+Vg==",
+  "dgSpecHash": "/Wd0dMeLDingYjx0QkbGO6zLb1P2gtbP0V5FdXVql/vMUbCGDk8khFh85OTDI6/Yp1thU74XsMgqxHBGAO0OZA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
+  "projectFilePath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

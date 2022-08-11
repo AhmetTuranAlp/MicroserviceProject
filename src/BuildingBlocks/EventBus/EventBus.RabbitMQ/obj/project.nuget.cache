@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "zspUrQfMZjT/wU2N/MSJrhTbmnzTeDvyz1Ba0Gx7W5QTlnWrkOeSqG2OTSB8ZHSawmu6ncoZRYNgolSdVhJXIw==",
+  "dgSpecHash": "QJREtc9444olNdYEGueAe4TodTVaZAlymuFf/h4zQmD16omyhRnQlAW4KEvAn10xtCB25G6H+fkxln8cncTOVQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+  "projectFilePath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -200,11 +200,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
+      "projectUniqueName": "D:\\Github\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
       "projectName": "BasketService.Api",
-      "projectPath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
+      "projectPath": "D:\\Github\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\BasketService.Api.csproj",
       "packagesPath": "C:\\Users\\GLB90090540\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\obj\\",
+      "outputPath": "D:\\Github\\MicroserviceProject\\src\\Services\\BasketService\\BasketService.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

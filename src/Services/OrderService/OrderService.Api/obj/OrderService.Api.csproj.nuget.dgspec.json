@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj": {}
+    "D:\\Github\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj": {
+    "D:\\Github\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj",
+        "projectUniqueName": "D:\\Github\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj",
         "projectName": "OrderService.Api",
-        "projectPath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj",
+        "projectPath": "D:\\Github\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\OrderService.Api.csproj",
         "packagesPath": "C:\\Users\\GLB90090540\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\obj\\",
+        "outputPath": "D:\\Github\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

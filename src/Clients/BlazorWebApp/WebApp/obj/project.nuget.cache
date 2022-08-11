@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qzrZyR83I8AJtREentzLZGy4YlOAG3X3rpW2WvbKlsbKdtJ3Jsl6KX3zus7cUYJo6a+FTFPNBWLo4z9YpnybJw==",
+  "dgSpecHash": "NiXCxWHxOuyrkl5lHVheHNHZgNwJ8iW2/DWt76H3RTWvvurN4oKTmaLcZDXaxeY/w4lb4HenlVk8HCaARJX0xA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
+  "projectFilePath": "D:\\Github\\MicroserviceProject\\src\\Clients\\BlazorWebApp\\WebApp\\WebApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GLB90090540\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.15\\microsoft.aspnetcore.authorization.5.0.15.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.15\\microsoft.aspnetcore.components.5.0.15.nupkg.sha512",

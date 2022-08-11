@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "naYWAR9Knwe3ykn+3DmDUJlTxbhdz/ffNqviJs1ic+Eb3DWn89xch5Sc2lfTBw87slXr7dgVFjMYK9Y3WBZEeg==",
+  "dgSpecHash": "l2lTg1fyt6YiLSjo/X6GuXlbqxK5jFE+t3PyKCkxm92LOEIgswcBRFQMXLbm3k1enEuGnxuq6NGQ0QNjNurgTA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj",
+  "projectFilePath": "D:\\Github\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Application\\OrderService.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

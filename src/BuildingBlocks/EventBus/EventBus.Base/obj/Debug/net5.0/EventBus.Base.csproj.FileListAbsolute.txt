@@ -10,3 +10,15 @@ C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBu
 C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.dll
 C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\ref\EventBus.Base.dll
 C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.pdb
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net5.0\EventBus.Base.deps.json
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net5.0\EventBus.Base.dll
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net5.0\ref\EventBus.Base.dll
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net5.0\EventBus.Base.pdb
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.csproj.AssemblyReference.cache
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.AssemblyInfoInputs.cache
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.AssemblyInfo.cs
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.csproj.CoreCompileInputs.cache
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.dll
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\ref\EventBus.Base.dll
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.pdb

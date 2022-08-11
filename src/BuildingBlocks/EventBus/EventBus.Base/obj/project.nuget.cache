@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "znMJf6xDoTCBf2KIFFr28xuc5N4YubaJgQSolzehTlFOqYUx3M0rRsfEPea37SAQSA2+26j4xvfOBaivpn86pg==",
+  "dgSpecHash": "LVNe4Iohc3kizrPjpMPkTT+Z0tdG7DRbBubPBMvx2mhT9YDanm5uPUgBcu4Cbs6JPpdEnxPuJ7/j/8A3fw4VOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+  "projectFilePath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\GLB90090540\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PK2UBVyy+DcWjmlMys9zTsoOPkzSLARQ0jofS44a3X+FaySamnrACQBybX1i/BCCPu3W4aRKe2Etec52IutFXw==",
+  "dgSpecHash": "R6XeGpxvw+FrUDvMNFr4oQrRn+4HkRCSzkQOfd33UtJh4Q8yNMnbFwEFsQdguraOkv0jadMN9a9f3/WWFSd5wA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\GLB90090540\\source\\repos\\MicroserviceProject\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj",
+  "projectFilePath": "D:\\Github\\MicroserviceProject\\src\\Services\\NotificationService\\NotificationService\\NotificationService.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
