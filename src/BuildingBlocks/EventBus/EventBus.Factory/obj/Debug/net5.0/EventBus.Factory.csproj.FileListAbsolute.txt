@@ -1,0 +1,12 @@
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.Factory.deps.json
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.Factory.dll
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\ref\EventBus.Factory.dll
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.Factory.pdb
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.csproj.AssemblyReference.cache
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.AssemblyInfoInputs.cache
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.AssemblyInfo.cs
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.csproj.CoreCompileInputs.cache
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.dll
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\ref\EventBus.Factory.dll
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.pdb

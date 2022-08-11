@@ -1,0 +1,12 @@
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net5.0\EventBus.RabbitMQ.deps.json
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net5.0\EventBus.RabbitMQ.dll
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net5.0\ref\EventBus.RabbitMQ.dll
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net5.0\EventBus.RabbitMQ.pdb
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.csproj.AssemblyReference.cache
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.AssemblyInfoInputs.cache
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.AssemblyInfo.cs
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.csproj.CoreCompileInputs.cache
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.dll
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\ref\EventBus.RabbitMQ.dll
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.pdb

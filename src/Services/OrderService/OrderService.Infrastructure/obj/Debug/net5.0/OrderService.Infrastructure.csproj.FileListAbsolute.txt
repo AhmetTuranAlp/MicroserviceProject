@@ -1,0 +1,11 @@
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\OrderService.Infrastructure.deps.json
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\OrderService.Infrastructure.dll
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\ref\OrderService.Infrastructure.dll
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\OrderService.Infrastructure.pdb
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.AssemblyInfo.cs
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.dll
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\ref\OrderService.Infrastructure.dll
+C:\Users\GLB90090540\source\repos\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.pdb
