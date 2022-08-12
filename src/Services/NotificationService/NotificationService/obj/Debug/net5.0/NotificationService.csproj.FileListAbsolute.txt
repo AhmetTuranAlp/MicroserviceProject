@@ -28,3 +28,4 @@ D:\Github\MicroserviceProject\src\Services\NotificationService\NotificationServi
 D:\Github\MicroserviceProject\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\ref\NotificationService.dll
 D:\Github\MicroserviceProject\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.pdb
 D:\Github\MicroserviceProject\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.genruntimeconfig.cache
+D:\Github\MicroserviceProject\src\Services\NotificationService\NotificationService\obj\Debug\net5.0\NotificationService.csproj.AssemblyReference.cache
