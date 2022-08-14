@@ -22,3 +22,6 @@ D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceB
 D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.dll
 D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\ref\EventBus.AzureServiceBus.dll
 D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.pdb
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.Base.dll
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\bin\Debug\net5.0\EventBus.Base.pdb
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.AzureServiceBus\obj\Debug\net5.0\EventBus.AzureServiceBus.csproj.CopyComplete

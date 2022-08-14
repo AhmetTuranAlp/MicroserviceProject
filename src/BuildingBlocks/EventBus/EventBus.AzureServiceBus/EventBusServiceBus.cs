@@ -69,23 +69,71 @@ namespace EventBus.AzureServiceBus
 
             if (!subsManager.HasSubscriptionsForEvent(eventName))
             {
-
+                var subscriptionClient = CreateSubscriptionClientIfNotExists(eventName);
+                RegisterSubscriptionClientMessageHandler(subscriptionClient);
             }
+
+            logger.LogInformation("Subscription to event {EventName} with {EventHandler}", eventName, typeof(TH).Name);
+
+            subsManager.AddSubscription<T, TH>();
         }
 
         public override void UnSubscribe<T, TH>()
         {
-            throw new NotImplementedException();
+            var eventName = typeof(T).Name;
+            try
+            {
+                var subscriptionClient = CreateSubscriptionClient(eventName);
+                subscriptionClient.RemoveRuleAsync(eventName).GetAwaiter().GetResult();
+            }
+            catch (MessagingEntityNotFoundException)
+            {
+                logger.LogWarning("The messaging entity {eventNama} Could not be found.", eventName);
+            }
+            logger.LogInformation("UnSubscribing from event {EventName}", eventName);
+            subsManager.RemoveSubscription<T, TH>();
         }
-         
+
+        private void RegisterSubscriptionClientMessageHandler(ISubscriptionClient subscriptionClient)
+        {
+            subscriptionClient.RegisterMessageHandler(
+                async (message, token) =>
+                {
+                    var eventName = $"{message.Label}";
+                    var messageData = Encoding.UTF8.GetString(message.Body);
+
+                    //Mesaj parçalama işlemi yapılıp ilgili servislere gönderilmesi yapılmaktadır. Sonrasında ise complete ile beraber başka bir işleme gönderilmemesi için tamamlandı olarak işlem yapılmaktadır.
+                    if (await ProcessEvent(ProcessEventName(eventName), messageData))
+                    {
+                        await subscriptionClient.CompleteAsync(message.SystemProperties.LockToken);
+                    }
+                },
+                //Mesaj tüketme aşamasında bir hata alınması durumunda işleme girmektedir.
+                new MessageHandlerOptions(ExemptionRecivedHandler) { MaxConcurrentCalls = 10, AutoComplete = false });
+
+        }
+
+        private Task ExemptionRecivedHandler(ExceptionReceivedEventArgs exceptionReceivedEventArgs)
+        {
+            var ex = exceptionReceivedEventArgs.Exception;
+            var context = exceptionReceivedEventArgs.ExceptionReceivedContext;
+            logger.LogError(ex, "Error handling message: {ExemptionMessage} - Content: {@ExemptionContext}", ex.Message, context);
+            return Task.CompletedTask;
+        }
+
+        /// <summary>
+        /// Subscription oluşturma işlemi yapılmaktadır.
+        /// </summary>
+        /// <param name="eventName"></param>
+        /// <returns></returns>
         private ISubscriptionClient CreateSubscriptionClientIfNotExists(string eventName)
-        { 
+        {
             var subClient = CreateSubscriptionClient(eventName);
             var exists = managementClient.SubscriptionExistsAsync(EventBusConfig.DefaultTopicName, GetSubName(eventName)).GetAwaiter().GetResult();
             if (!exists)
             {
                 managementClient.CreateSubscriptionAsync(EventBusConfig.DefaultTopicName, GetSubName(eventName)).GetAwaiter().GetResult();
-                RemoveDefaultRule(subClient);               
+                RemoveDefaultRule(subClient);
             }
             CreateRuleIfNotExists(ProcessEventName(eventName), subClient);
             return subClient;
@@ -101,10 +149,10 @@ namespace EventBus.AzureServiceBus
             bool ruleExists;
             try
             {
-                var rule = managementClient.GetRuleAsync(EventBusConfig.DefaultTopicName, eventName, eventName).GetAwaiter().GetResult();
+                var rule = managementClient.GetRuleAsync(EventBusConfig.DefaultTopicName, GetSubName(eventName), eventName).GetAwaiter().GetResult();
                 ruleExists = rule != null;
             }
-            catch (MessagingEntityNotFoundException)
+            catch (MessagingEntityNotFoundException ex)
             {
                 ruleExists = false;
             }
@@ -135,10 +183,24 @@ namespace EventBus.AzureServiceBus
             }
         }
 
-
+        /// <summary>
+        /// EventName ile beraber subscription elde edilmektedir.
+        /// </summary>
+        /// <param name="eventName"></param>
+        /// <returns></returns>
         private SubscriptionClient CreateSubscriptionClient(string eventName)
         {
             return new SubscriptionClient(EventBusConfig.EventBusConnectionString, EventBusConfig.DefaultTopicName, GetSubName(eventName));
+        }
+
+        public override void Dispose()
+        {
+            base.Dispose();
+
+            topicClient.CloseAsync().GetAwaiter().GetResult();
+            managementClient.CloseAsync().GetAwaiter().GetResult();
+            topicClient = null;
+            managementClient = null;
         }
     }
 }

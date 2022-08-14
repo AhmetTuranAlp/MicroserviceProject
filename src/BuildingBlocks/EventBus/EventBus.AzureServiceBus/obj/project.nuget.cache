@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "v1zdI9zDtSjL7Yx5mcse53DkpBvwoH9C6LaQa+Iib8rv5XZd0T0nsfv9BYRHu8u7DSgyH4JcLpycMdj4vHvBvg==",
+  "dgSpecHash": "C0tYq0fNuF+gnpSin1xsyMZJQkEQcHiUJb4O/2G1Ipo4h2whUcykHv/8aQPnvAEKbCFnyi321eRSIKCz40mkzQ==",
   "success": true,
   "projectFilePath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
   "expectedPackageFiles": [
@@ -8,7 +8,7 @@
     "C:\\Users\\GLB90090540\\.nuget\\packages\\microsoft.azure.servicebus\\5.2.0\\microsoft.azure.servicebus.5.2.0.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\microsoft.azure.services.appauthentication\\1.0.3\\microsoft.azure.services.appauthentication.1.0.3.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
-    "C:\\Users\\GLB90090540\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.1\\microsoft.extensions.logging.abstractions.6.0.1.nupkg.sha512",
+    "C:\\Users\\GLB90090540\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\5.0.0\\microsoft.extensions.logging.abstractions.5.0.0.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\microsoft.identitymodel.clients.activedirectory\\3.14.2\\microsoft.identitymodel.clients.activedirectory.3.14.2.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\5.4.0\\microsoft.identitymodel.jsonwebtokens.5.4.0.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\microsoft.identitymodel.logging\\5.4.0\\microsoft.identitymodel.logging.5.4.0.nupkg.sha512",
@@ -36,7 +36,7 @@
     "C:\\Users\\GLB90090540\\.nuget\\packages\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.04-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl\\4.3.0\\runtime.ubuntu.16.10-x64.runtime.native.system.security.cryptography.openssl.4.3.0.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\system.appcontext\\4.3.0\\system.appcontext.4.3.0.nupkg.sha512",
-    "C:\\Users\\GLB90090540\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
+    "C:\\Users\\GLB90090540\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
@@ -56,7 +56,6 @@
     "C:\\Users\\GLB90090540\\.nuget\\packages\\system.io.filesystem.primitives\\4.3.0\\system.io.filesystem.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\system.linq\\4.3.0\\system.linq.4.3.0.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\system.linq.expressions\\4.3.0\\system.linq.expressions.4.3.0.nupkg.sha512",
-    "C:\\Users\\GLB90090540\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\system.net.http\\4.3.0\\system.net.http.4.3.0.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\system.net.primitives\\4.3.0\\system.net.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\GLB90090540\\.nuget\\packages\\system.net.sockets\\4.3.0\\system.net.sockets.4.3.0.nupkg.sha512",

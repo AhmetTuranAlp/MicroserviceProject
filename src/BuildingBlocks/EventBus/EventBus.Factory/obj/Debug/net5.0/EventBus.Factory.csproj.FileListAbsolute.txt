@@ -22,3 +22,10 @@ D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\D
 D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.dll
 D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\ref\EventBus.Factory.dll
 D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.pdb
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.AzureServiceBus.dll
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.Base.dll
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.RabbitMQ.dll
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.AzureServiceBus.pdb
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.Base.pdb
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\bin\Debug\net5.0\EventBus.RabbitMQ.pdb
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Factory\obj\Debug\net5.0\EventBus.Factory.csproj.CopyComplete

@@ -20,3 +20,4 @@ D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Domain\obj\
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\OrderService.Domain.dll
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\ref\OrderService.Domain.dll
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\OrderService.Domain.pdb
+D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Domain\obj\Debug\net5.0\OrderService.Domain.csproj.AssemblyReference.cache

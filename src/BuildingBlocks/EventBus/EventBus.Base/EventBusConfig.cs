@@ -9,7 +9,7 @@ namespace EventBus.Base
     public class EventBusConfig
     {
         public int ConnectionRetryCount { get; set; } = 5;
-        public string DefaultTopicName { get; set; } = "DefaultEventBus";
+        public string DefaultTopicName { get; set; } = "MicroserviceDefaultTopicName";
         public string EventBusConnectionString { get; set; } = String.Empty;
         public string SubscribeClientAppName { get; set; } = String.Empty;
         public string EventNamePrefix { get; set; } = String.Empty;

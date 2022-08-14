@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "QJREtc9444olNdYEGueAe4TodTVaZAlymuFf/h4zQmD16omyhRnQlAW4KEvAn10xtCB25G6H+fkxln8cncTOVQ==",
+  "dgSpecHash": "LXQDrBqp8+zQB6y+rIuQPCSk5l7UocI8+cFiTI/4OMpAYXkExftgj00lZZXJaJJwqnaac73TAvLIK1krKjK+2w==",
   "success": true,
   "projectFilePath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\GLB90090540\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\GLB90090540\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\GLB90090540\\.nuget\\packages\\polly\\7.2.3\\polly.7.2.3.nupkg.sha512",
+    "C:\\Users\\GLB90090540\\.nuget\\packages\\rabbitmq.client\\6.4.0\\rabbitmq.client.6.4.0.nupkg.sha512",
+    "C:\\Users\\GLB90090540\\.nuget\\packages\\system.memory\\4.5.4\\system.memory.4.5.4.nupkg.sha512",
+    "C:\\Users\\GLB90090540\\.nuget\\packages\\system.threading.channels\\4.7.1\\system.threading.channels.4.7.1.nupkg.sha512"
+  ],
   "logs": []
 }

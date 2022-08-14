@@ -22,3 +22,6 @@ D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\
 D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.dll
 D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\ref\EventBus.RabbitMQ.dll
 D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.pdb
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net5.0\EventBus.Base.dll
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\bin\Debug\net5.0\EventBus.Base.pdb
+D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.RabbitMQ\obj\Debug\net5.0\EventBus.RabbitMQ.csproj.CopyComplete
