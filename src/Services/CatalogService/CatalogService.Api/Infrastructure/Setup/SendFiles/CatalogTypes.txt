@@ -1,0 +1,4 @@
+﻿CatalogType
+Yazılım
+Donanım
+Cloud

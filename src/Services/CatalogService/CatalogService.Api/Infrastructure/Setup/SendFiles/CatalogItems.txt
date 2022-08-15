@@ -1,0 +1,4 @@
+﻿CatalogTypeName,CatalogBrandName,Description,Name,Price,PictureFileName,availablestock,onreorder
+Cloud,Azure, "ServiceBus Imp.","ServiceBus",1.png,100,false
+Donanım,Other, "Redis Ram Bellek","Ram",2.png,100,true
+Yazılım,.NET, ".Net Core",".Net Core",3.png,100,true

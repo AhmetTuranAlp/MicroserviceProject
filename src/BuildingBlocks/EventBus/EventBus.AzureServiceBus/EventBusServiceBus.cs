@@ -73,7 +73,7 @@ namespace EventBus.AzureServiceBus
                 RegisterSubscriptionClientMessageHandler(subscriptionClient);
             }
 
-            logger.LogInformation("Subscription to event {EventName} with {EventHandler}", eventName, typeof(TH).Name);
+            //logger.LogInformation("Subscription to event {EventName} with {EventHandler}", eventName, typeof(TH).Name);
 
             subsManager.AddSubscription<T, TH>();
         }
@@ -88,9 +88,9 @@ namespace EventBus.AzureServiceBus
             }
             catch (MessagingEntityNotFoundException)
             {
-                logger.LogWarning("The messaging entity {eventNama} Could not be found.", eventName);
+                //logger.LogWarning("The messaging entity {eventNama} Could not be found.", eventName);
             }
-            logger.LogInformation("UnSubscribing from event {EventName}", eventName);
+            //logger.LogInformation("UnSubscribing from event {EventName}", eventName);
             subsManager.RemoveSubscription<T, TH>();
         }
 
@@ -117,7 +117,7 @@ namespace EventBus.AzureServiceBus
         {
             var ex = exceptionReceivedEventArgs.Exception;
             var context = exceptionReceivedEventArgs.ExceptionReceivedContext;
-            logger.LogError(ex, "Error handling message: {ExemptionMessage} - Content: {@ExemptionContext}", ex.Message, context);
+            //logger.LogError(ex, "Error handling message: {ExemptionMessage} - Content: {@ExemptionContext}", ex.Message, context);
             return Task.CompletedTask;
         }
 
@@ -179,7 +179,7 @@ namespace EventBus.AzureServiceBus
             }
             catch (MessagingEntityNotFoundException)
             {
-                logger.LogWarning("The messaging entity {DefaultRuleName} Could not be found.", RuleDescription.DefaultRuleName);
+                //logger.LogWarning("The messaging entity {DefaultRuleName} Could not be found.", RuleDescription.DefaultRuleName);
             }
         }
 
