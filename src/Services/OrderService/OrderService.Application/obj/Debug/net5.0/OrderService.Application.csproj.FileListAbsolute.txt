@@ -14,7 +14,6 @@ D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\OrderService.Application.dll
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\ref\OrderService.Application.dll
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\OrderService.Application.pdb
-D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.csproj.AssemblyReference.cache
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.AssemblyInfoInputs.cache
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.AssemblyInfo.cs
