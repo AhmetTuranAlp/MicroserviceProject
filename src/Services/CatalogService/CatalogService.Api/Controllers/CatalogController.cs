@@ -2,6 +2,7 @@
 using CatalogService.Api.Core.Domain;
 using CatalogService.Api.Dtos;
 using CatalogService.Api.Services.Interfaces;
+using Common.Base;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Collections.Generic;
@@ -13,7 +14,7 @@ namespace CatalogService.Api.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class CatalogController : ControllerBase
+    public class CatalogController : CustomBaseController
     {
         private readonly ICatalogServices _catalogService;
 
@@ -51,7 +52,6 @@ namespace CatalogService.Api.Controllers
         public async Task<ActionResult<CatalogItemDto>> ItemByIdAsync(int id)
         {
             if (id <= 0) return BadRequest();
-
             var item = await _catalogService.ItemByIdAsync(id);
             if (item == null)
                 return NotFound();

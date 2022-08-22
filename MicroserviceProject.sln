@@ -74,7 +74,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EventBus.UnitTest", "test\B
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{246DBAA6-5560-4BE9-BF03-E926796C1FBF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Common", "src\Shared\Common\Common.csproj", "{1328FC56-E297-42A1-AC93-0F4B24E63CB3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Common", "src\Shared\Common\Common.csproj", "{1328FC56-E297-42A1-AC93-0F4B24E63CB3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PictureServices", "src\Services\CatalogService\PictureServices\PictureServices.csproj", "{465FC398-929B-4F41-BABF-FB9841219663}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -150,6 +152,10 @@ Global
 		{1328FC56-E297-42A1-AC93-0F4B24E63CB3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1328FC56-E297-42A1-AC93-0F4B24E63CB3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1328FC56-E297-42A1-AC93-0F4B24E63CB3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{465FC398-929B-4F41-BABF-FB9841219663}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{465FC398-929B-4F41-BABF-FB9841219663}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{465FC398-929B-4F41-BABF-FB9841219663}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{465FC398-929B-4F41-BABF-FB9841219663}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -187,6 +193,7 @@ Global
 		{1DE63A65-9B02-4E97-9821-13C38FDA06DC} = {28D4C71E-EBAA-4853-B6F5-FDFB4B955CC4}
 		{246DBAA6-5560-4BE9-BF03-E926796C1FBF} = {2414F987-9A03-4666-939E-79C3FE307515}
 		{1328FC56-E297-42A1-AC93-0F4B24E63CB3} = {246DBAA6-5560-4BE9-BF03-E926796C1FBF}
+		{465FC398-929B-4F41-BABF-FB9841219663} = {EDEDB771-2AC4-492B-8918-2CE7BBBCC242}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {A208883D-0E7D-4942-8D2B-BDAE22AFCD3D}
