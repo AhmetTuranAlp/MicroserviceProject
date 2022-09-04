@@ -22,3 +22,14 @@ D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debu
 D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.dll
 D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\ref\EventBus.Base.dll
 D:\Github\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.pdb
+C:\GithubProject\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net5.0\EventBus.Base.deps.json
+C:\GithubProject\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net5.0\EventBus.Base.dll
+C:\GithubProject\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net5.0\ref\EventBus.Base.dll
+C:\GithubProject\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\bin\Debug\net5.0\EventBus.Base.pdb
+C:\GithubProject\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubProject\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.AssemblyInfoInputs.cache
+C:\GithubProject\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.AssemblyInfo.cs
+C:\GithubProject\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.csproj.CoreCompileInputs.cache
+C:\GithubProject\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.dll
+C:\GithubProject\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\ref\EventBus.Base.dll
+C:\GithubProject\MicroserviceProject\src\BuildingBlocks\EventBus\EventBus.Base\obj\Debug\net5.0\EventBus.Base.pdb

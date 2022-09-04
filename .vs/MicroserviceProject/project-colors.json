@@ -1,0 +1,46 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "98e968ae-9fe7-495f-92c0-708057ec8b8c": {
+      "ProjectGuid": "98e968ae-9fe7-495f-92c0-708057ec8b8c",
+      "DisplayName": "PaymentService.Api",
+      "ColorIndex": 0
+    },
+    "b9898f0c-c9d5-46d4-bc13-fc45931e5f02": {
+      "ProjectGuid": "b9898f0c-c9d5-46d4-bc13-fc45931e5f02",
+      "DisplayName": "EventBus.Base",
+      "ColorIndex": 1
+    },
+    "5706db56-726e-4a92-aa03-8f29f54d019d": {
+      "ProjectGuid": "5706db56-726e-4a92-aa03-8f29f54d019d",
+      "DisplayName": "EventBus.RabbitMQ",
+      "ColorIndex": 2
+    },
+    "3cd4ba55-3e04-4413-866c-799b68cd982d": {
+      "ProjectGuid": "3cd4ba55-3e04-4413-866c-799b68cd982d",
+      "DisplayName": "EventBus.Factory",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "1de63a65-9b02-4e97-9821-13c38fda06dc": {
+      "ProjectGuid": "1de63a65-9b02-4e97-9821-13c38fda06dc",
+      "DisplayName": "EventBus.UnitTest",
+      "ColorIndex": 4
+    },
+    "044f18ce-4cb3-48ee-aa32-1ae0234c1ae9": {
+      "ProjectGuid": "044f18ce-4cb3-48ee-aa32-1ae0234c1ae9",
+      "DisplayName": "CatalogService.Api",
+      "ColorIndex": 5
+    },
+    "7da0ff71-1c98-4048-8d57-66301062052b": {
+      "ProjectGuid": "7da0ff71-1c98-4048-8d57-66301062052b",
+      "DisplayName": "NotificationService",
+      "ColorIndex": 6
+    }
+  },
+  "NextColorIndex": 7
+}

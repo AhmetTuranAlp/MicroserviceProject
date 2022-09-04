@@ -1,4 +1,4 @@
-using EventBus.Base;
+﻿using EventBus.Base;
 using EventBus.Base.Abstraction;
 using EventBus.Factory;
 using Microsoft.AspNetCore.Builder;
@@ -11,6 +11,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using PaymentService.Api.IntegrationEvents.EventHandler;
+using PaymentService.Api.IntegrationEvents.Events;
 using RabbitMQ.Client;
 using System;
 using System.Collections.Generic;
@@ -40,7 +41,9 @@ namespace PaymentService.Api
 
             services.AddLogging(configuration => configuration.AddConsole());
 
+            #region BaseEventBus sınıfında GetService metodunda handle beklediği için DI uygulanmıştır.
             services.AddTransient<OrderStartedIntegrationEventHandler>();
+            #endregion
 
             services.AddTransient<IEventBus>(sp =>
             {
@@ -78,7 +81,7 @@ namespace PaymentService.Api
             });
 
             IEventBus eventBus = app.ApplicationServices.GetRequiredService<IEventBus>();
-            eventBus.Subscribe<OrderStartedIntegrationEventHandler, OrderStartedIntegrationEventHandler>();
+            eventBus.Subscribe<OrderStartedIntegrationEvent, OrderStartedIntegrationEventHandler>();
         }
     }
 }

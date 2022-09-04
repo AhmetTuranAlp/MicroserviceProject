@@ -20,3 +20,14 @@ D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastruct
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.dll
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\ref\OrderService.Infrastructure.dll
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.pdb
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\OrderService.Infrastructure.deps.json
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\OrderService.Infrastructure.dll
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\ref\OrderService.Infrastructure.dll
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\bin\Debug\net5.0\OrderService.Infrastructure.pdb
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.AssemblyInfoInputs.cache
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.AssemblyInfo.cs
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.csproj.CoreCompileInputs.cache
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.dll
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\ref\OrderService.Infrastructure.dll
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Infrastructure\obj\Debug\net5.0\OrderService.Infrastructure.pdb

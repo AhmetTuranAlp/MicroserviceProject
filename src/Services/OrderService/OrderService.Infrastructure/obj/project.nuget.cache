@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sjDStcNcryC/Ymnb77yrmVkbXjsTPEWULKFnEr5ZUNjLxGmM8EP3PW6J4Yup+rs2Fr/tqnOR7f6gFdDVSK1mdg==",
+  "dgSpecHash": "22xXHKyo3Zv/jt0G3PVTtT6o7P+rXVc5DHrI423g2gNmFd8OUnqyghzxKualTZFBZdHoDT0LwI1/yoMv06xAjA==",
   "success": true,
-  "projectFilePath": "D:\\Github\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
+  "projectFilePath": "C:\\GithubProject\\MicroserviceProject\\src\\Services\\OrderService\\OrderService.Infrastructure\\OrderService.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

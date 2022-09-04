@@ -21,3 +21,14 @@ D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.dll
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\ref\OrderService.Application.dll
 D:\Github\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.pdb
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\OrderService.Application.deps.json
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\OrderService.Application.dll
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\ref\OrderService.Application.dll
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Application\bin\Debug\net5.0\OrderService.Application.pdb
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.AssemblyInfoInputs.cache
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.AssemblyInfo.cs
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.csproj.CoreCompileInputs.cache
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.dll
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\ref\OrderService.Application.dll
+C:\GithubProject\MicroserviceProject\src\Services\OrderService\OrderService.Application\obj\Debug\net5.0\OrderService.Application.pdb

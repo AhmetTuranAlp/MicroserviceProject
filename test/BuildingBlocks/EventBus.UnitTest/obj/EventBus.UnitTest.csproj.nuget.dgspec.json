@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Github\\MicroserviceProject\\test\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj": {}
+    "C:\\GithubProject\\MicroserviceProject\\test\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj": {}
   },
   "projects": {
-    "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj": {
+    "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
+        "projectUniqueName": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
         "projectName": "EventBus.AzureServiceBus",
-        "projectPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
-        "packagesPath": "C:\\Users\\GLB90090540\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\obj\\",
+        "projectPath": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj",
+        "packagesPath": "C:\\Users\\Ahmet Turan Alp\\.nuget\\packages\\",
+        "outputPath": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GLB90090540\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmet Turan Alp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -34,8 +32,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
-                "projectPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
+              "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+                "projectPath": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
               }
             }
           }
@@ -74,28 +72,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+    "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+        "projectUniqueName": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
         "projectName": "EventBus.Base",
-        "projectPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
-        "packagesPath": "C:\\Users\\GLB90090540\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\obj\\",
+        "projectPath": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj",
+        "packagesPath": "C:\\Users\\Ahmet Turan Alp\\.nuget\\packages\\",
+        "outputPath": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GLB90090540\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmet Turan Alp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -144,28 +140,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj": {
+    "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
+        "projectUniqueName": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
         "projectName": "EventBus.Factory",
-        "projectPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
-        "packagesPath": "C:\\Users\\GLB90090540\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\obj\\",
+        "projectPath": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj",
+        "packagesPath": "C:\\Users\\Ahmet Turan Alp\\.nuget\\packages\\",
+        "outputPath": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GLB90090540\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmet Turan Alp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -178,14 +172,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj": {
-                "projectPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj"
+              "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj": {
+                "projectPath": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.AzureServiceBus\\EventBus.AzureServiceBus.csproj"
               },
-              "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
-                "projectPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
+              "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+                "projectPath": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
               },
-              "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
-                "projectPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj"
+              "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
+                "projectPath": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj"
               }
             }
           }
@@ -214,28 +208,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
+    "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+        "projectUniqueName": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
         "projectName": "EventBus.RabbitMQ",
-        "projectPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
-        "packagesPath": "C:\\Users\\GLB90090540\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\obj\\",
+        "projectPath": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\EventBus.RabbitMQ.csproj",
+        "packagesPath": "C:\\Users\\Ahmet Turan Alp\\.nuget\\packages\\",
+        "outputPath": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.RabbitMQ\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GLB90090540\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmet Turan Alp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -248,8 +240,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
-                "projectPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
+              "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj": {
+                "projectPath": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Base\\EventBus.Base.csproj"
               }
             }
           }
@@ -288,28 +280,26 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\Github\\MicroserviceProject\\test\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj": {
+    "C:\\GithubProject\\MicroserviceProject\\test\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Github\\MicroserviceProject\\test\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj",
+        "projectUniqueName": "C:\\GithubProject\\MicroserviceProject\\test\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj",
         "projectName": "EventBus.UnitTest",
-        "projectPath": "D:\\Github\\MicroserviceProject\\test\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj",
-        "packagesPath": "C:\\Users\\GLB90090540\\.nuget\\packages\\",
-        "outputPath": "D:\\Github\\MicroserviceProject\\test\\BuildingBlocks\\EventBus.UnitTest\\obj\\",
+        "projectPath": "C:\\GithubProject\\MicroserviceProject\\test\\BuildingBlocks\\EventBus.UnitTest\\EventBus.UnitTest.csproj",
+        "packagesPath": "C:\\Users\\Ahmet Turan Alp\\.nuget\\packages\\",
+        "outputPath": "C:\\GithubProject\\MicroserviceProject\\test\\BuildingBlocks\\EventBus.UnitTest\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\GLB90090540\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Ahmet Turan Alp\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -322,8 +312,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj": {
-                "projectPath": "D:\\Github\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj"
+              "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj": {
+                "projectPath": "C:\\GithubProject\\MicroserviceProject\\src\\BuildingBlocks\\EventBus\\EventBus.Factory\\EventBus.Factory.csproj"
               }
             }
           }
@@ -382,7 +372,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.108\\RuntimeIdentifierGraph.json"
         }
       }
     }
